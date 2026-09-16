@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: kuberouteops/catalog
-  tag: "0.2.0"
+  tag: "0.3.0"
 
 database:
   url: jdbc:mysql://catalog-mysql:3306/catalog
